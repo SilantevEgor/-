@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+body {
+    background-color: rgb(88, 218, 179);
+    padding: 30px;
+    padding-bottom: 0px;
+}
+img {
+    width: 200px;
+    border-radius: 20px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.80); 
+}
+.start {
+    padding-left: 30%;
+    font-family: 'Pacifico', cursive;
+    color: darkolivegreen;
+    display: flex;
+    padding-bottom: 50px;
+    padding-top: 80px;
+}
+.start img {
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.80);
+    width: 110px;
+    border-radius: 40%;
+}
+.start h1 {
+    padding-right: 40px;
+}
+.start2 {
+    font-family: 'Bitter', serif;
+    background-color: rgb(72, 196, 159);
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.snk h3 {
+    font-family: 'Pacifico', cursive;
+    color: rgb(96, 107, 107);
+    text-align: center;
+    font-size: 25px;
+    margin-top: 10px;
+}
+.snk {
+    margin-top: 40px;
+    font-family: 'Bitter', serif;
+    background-color: rgb(72, 196, 159);
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.snk table td:nth-child(1) {
+padding-right: 20px;
+}
+.snk table td:nth-child(2) {
+    padding-right: 20px;
+    }
+.snk td {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: rgb(168, 13, 13);
+    font-size: 20px;
+}
+a:hover {
+    text-decoration: underline;
+}
+.socks h3 {
+    font-family: 'Pacifico', cursive;
+    color: rgb(96, 107, 107);
+    text-align: center;
+    font-size: 25px;
+    margin-top: 10px;
+}
+.socks {
+    margin-top: 40px;
+    font-family: 'Bitter', serif;
+    background-color: rgb(72, 196, 159);
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.socks td {
+    text-align: center;
+}
+.socks table td:nth-child(1) {
+    padding-right: 30px;
+}
+.socks table td:nth-child(2) {
+    padding-right: 30px;
+}
+.dino {
+    margin-top: 40px;
+    font-family: 'Bitter', serif;
+    background-color: rgb(72, 196, 159);
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.dino h3 {
+    font-family: 'Pacifico', cursive;
+    color: rgb(96, 107, 107);
+    text-align: center;
+    font-size: 25px;
+    margin-top: 10px;
+}
+.dino td {
+    text-align: center;
+}
+.dino table td:nth-child(1) {
+    padding-right: 40px;
+}
+.dino table td:nth-child(2) {
+    padding-right: 40px;
+}
+.call {
+    margin-top: 70px;
+    font-family: 'Bitter', serif;
+    background-color: rgb(104, 201, 172);
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 20px;
+    padding-left: 80px;
+}
+.call h3 {
+   text-align: center;
+   font-family: 'Pacifico', cursive;
+    color: rgb(96, 107, 107);
+    font-size: 25px;
+    margin-top: 10px;
+}
+.call h2 {
+    font-size: 17px;
+}
+.call form {
+    padding-bottom: 20px;
+}
+.btn {
+    padding: 15px 20px;
+    cursor: pointer;
+    font-family: 'Pacifico', cursive;
+    color: #111;
+    font-size: 25px;
+}
+.social {
+    margin-top: 20px;
+    font-family: 'Bitter', serif;
+    background-color: rgb(104, 201, 172);
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 20px;
+    padding-left: 80px;
+    padding-bottom: 40px;
+}
+.social h3 {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+     color: rgb(96, 107, 107);
+     font-size: 25px;
+     margin-top: 10px;
+ }
+.aa a{
+    text-decoration: none;
+    color: #111;
+    font-family: 'Pacifico', cursive;
+    font-size: 17px;
+}
+.aa a:hover {
+    text-decoration: underline;
+}
+.end {
+    text-align: center;
+    padding-top: 100px;
+    color: #111;
+    font-family: 'Pacifico', cursive;
+    font-size: 17px;
+}
+.position {
+    position: relative;
+}
+.box {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    background: rgb(54, 150, 121);
+    height: 60px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.80);
+    display: flex;
+}
+.box h2 {
+    font-family: 'Pacifico', cursive;
+    padding-left: 40px;
+    font-size: 20px;
+    padding-bottom: 5px;
+    color: rgb(33, 126, 33);
+}
+.box a {
+    padding-top: 10px;
+    padding-left: 100px;
+    color: rgb(9, 107, 107);
+    font-family: 'Pacifico', cursive;
+    font-size: 18px;
+}
